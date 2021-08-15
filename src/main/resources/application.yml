@@ -1,0 +1,9 @@
+ddns:
+  access-key-id: 111
+  secret: 222
+  domain:
+    domain1.com:
+      - server
+      - oss
+    domain2.com:
+      - target
